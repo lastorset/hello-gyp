@@ -24,9 +24,6 @@
             "sources": [
                 "./bin/myapp.cc"
             ],
-            "include_dirs": [
-                "include"
-            ],
             "dependencies": [
                 "mylib"
             ]
